@@ -24,6 +24,8 @@ li{
 .nested_data{
 	text-align:center;
 }
-.bgcolor{
+.nested_t4_data{
+	text-align:center;
+	color:white;
 	background-color:rgb(0,0,0);
 }
